@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:ec4899&height=200&section=header&text=Einar%20Yang&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Builder%20%E2%9A%A1%20Thinker%20%F0%9F%A7%A0%20Problem%20Solver%20%F0%9F%9A%80&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:ec4899&height=200&section=header&text=Einar%20Yang&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Builder%20%7C%20Thinker%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hey+there%2C+I'm+Einar+%F0%9F%91%8B;Crafting+ideas+into+reality+%F0%9F%9A%80;Always+learning%2C+never+settling+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hey+there%2C+I'm+Einar;Crafting+ideas+into+reality;Always+learning%2C+never+settling)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,41 +15,41 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```typescript
 const einar = {
-  location:     "🍁 Toronto, Canada",
+  location:     "Toronto, Canada",
   currentFocus: [
-    "On-device AI / LLM inference on iOS 📱",
-    "Autonomous agents & AI workflows 🤖",
-    "Building tools that make developers 10× faster ⚡",
+    "On-device AI / LLM inference on iOS",
+    "Autonomous agents & AI workflows",
+    "Building tools that make developers 10x faster",
   ],
   techLove:    ["Swift", "Python", "llama.cpp", "LangChain"],
   philosophy:  "Talk is cheap — show me the prompts.",
-  funFact:     "I automate job applications so I can focus on building 😅",
+  funFact:     "I automate job applications so I can focus on building.",
 };
 ```
 
 <details>
-<summary>📖 More about me...</summary>
+<summary>More about me...</summary>
 <br>
 
-- 🔭 &nbsp; Currently building **on-device AI tools for iOS** (LlamaSwift & iOS_LLMKit)
-- 🤖 &nbsp; Shipping **autonomous agents** that actually get things done
-- 🌱 &nbsp; Deep-diving into **distributed inference** & **multimodal AI**
-- 🤝 &nbsp; Open to collaborating on **meaningful AI/ML open-source projects**
-- ⚡ &nbsp; Fun fact: My bot applies to jobs while I sleep
+- Currently building **on-device AI tools for iOS** (LlamaSwift & iOS_LLMKit)
+- Shipping **autonomous agents** that actually get things done
+- Deep-diving into **distributed inference** & **multimodal AI**
+- Open to collaborating on **meaningful AI/ML open-source projects**
+- Fun fact: My bot applies to jobs while I sleep
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,13 +58,13 @@ const einar = {
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 📱 Mobile & Frontend
+### Mobile & Frontend
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -72,7 +72,7 @@ const einar = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### ⚙️ Backend & DevOps
+### Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,7 +80,7 @@ const einar = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔧 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -90,7 +90,7 @@ const einar = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -108,7 +108,7 @@ const einar = {
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -118,7 +118,7 @@ const einar = {
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -128,18 +128,18 @@ const einar = {
 
 ---
 
-## 🚀 What I'm Building
+## Projects
 
-| 🔨 Project | 📝 Description | 🛠️ Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [claude-job-autopilot](https://github.com/EinarInCanada/claude-job-autopilot) | 🤖 Fully automated job applications via Claude AI | Python, Playwright |
-| [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift) | 📦 Swift Package for llama.cpp inference | Swift, C++ |
-| [iOS_LLMKit](https://github.com/EinarInCanada/iOS_LLMKit) | 📱 On-device LLM orchestration for iOS | Swift, llama.cpp |
-| `[stealth mode 🤫]` | 🏗️ Something big — coming soon | ??? |
+| [claude-job-autopilot](https://github.com/EinarInCanada/claude-job-autopilot) | Fully automated job applications via Claude AI | Python, Playwright |
+| [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift) | Swift Package for llama.cpp inference | Swift, C++ |
+| [iOS_LLMKit](https://github.com/EinarInCanada/iOS_LLMKit) | On-device LLM orchestration for iOS | Swift, llama.cpp |
+| `[stealth mode]` | Something big — coming soon | ??? |
 
 ---
 
-## 💭 Today's Quote
+## Today's Quote
 
 <div align="center">
 
@@ -149,17 +149,13 @@ const einar = {
 
 ---
 
-## 🤝 Connect with Me
+## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/einaryang)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EinarInCanada)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:einaryang@gmail.com)
-
-<br/>
-
-⭐ **If any of my projects helped you, a star means the world!** ⭐
 
 </div>
 

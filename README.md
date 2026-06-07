@@ -26,8 +26,6 @@ const einar = {
     "Building tools that make developers 10x faster",
   ],
   techLove:    ["Swift", "Python", "llama.cpp", "LangChain"],
-  philosophy:  "Talk is cheap — show me the prompts.",
-  funFact:     "I automate job applications so I can focus on building.",
 };
 ```
 
@@ -143,7 +141,7 @@ const einar = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/einaryang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chenxi-yang-ca)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EinarInCanada)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:einaryang@gmail.com)
 

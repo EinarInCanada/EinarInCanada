@@ -90,6 +90,17 @@ const einar = {
 
 ---
 
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [claude-job-autopilot](https://github.com/EinarInCanada/claude-job-autopilot) | Fully automated job applications via Claude AI | Python, Playwright |
+| [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift) | Swift Package for llama.cpp inference | Swift, C++ |
+| [iOS_LLMKit](https://github.com/EinarInCanada/iOS_LLMKit) | On-device LLM orchestration for iOS | Swift, llama.cpp |
+| `[stealth mode]` | Something big — coming soon | ??? |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -125,17 +136,6 @@ const einar = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=EinarInCanada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [claude-job-autopilot](https://github.com/EinarInCanada/claude-job-autopilot) | Fully automated job applications via Claude AI | Python, Playwright |
-| [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift) | Swift Package for llama.cpp inference | Swift, C++ |
-| [iOS_LLMKit](https://github.com/EinarInCanada/iOS_LLMKit) | On-device LLM orchestration for iOS | Swift, llama.cpp |
-| `[stealth mode]` | Something big — coming soon | ??? |
 
 ---
 

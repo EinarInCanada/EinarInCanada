@@ -92,6 +92,8 @@ const einar = {
 
 | Project | Description | Stack |
 |---|---|---|
+| [Gemholic](https://testflight.apple.com/join/Uh4VUknt) | Local-first AI companion app for iOS & macOS Catalyst | Swift, SwiftUI, SwiftData, LiteRT-LM |
+| [Gem Translate](https://testflight.apple.com/join/duZnw3Q4) | Local-first AI translation & companion app | Swift, SwiftUI, SwiftData, LiteRT-LM |
 | [claude-job-autopilot](https://github.com/EinarInCanada/claude-job-autopilot) | Fully automated job applications via Claude AI | Python, Playwright |
 | [LlamaSwift](https://github.com/EinarInCanada/LlamaSwift) | Swift Package for llama.cpp inference | Swift, C++ |
 | [iOS_LLMKit](https://github.com/EinarInCanada/iOS_LLMKit) | On-device LLM orchestration for iOS | Swift, llama.cpp |
